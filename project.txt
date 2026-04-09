@@ -1,0 +1,11 @@
+
+
+The project involves developing a web-based peer review and collaboration platform designed to enhance student learning and teamwork. The application will allow students to work together on academic projects, share their work, and provide constructive feedback to one another. By enabling structured peer evaluation, the platform helps improve understanding, critical thinking, and overall project quality.
+
+The system will have two main roles:
+
+* **Admin (Teacher):** The teacher can create and manage peer review assignments, define evaluation criteria, assign students to groups, and monitor collaboration progress. They can also track participation, review feedback given by students, and ensure that the evaluation process is fair and effective.
+
+* **User (Student):** Students can collaborate with peers on projects, upload or share their work, review other students’ submissions, and provide meaningful feedback. They can also view feedback received and improve their work accordingly.
+
+The platform will include features such as user-friendly interfaces, proper routing, and responsive design to ensure accessibility across devices. It aims to create an interactive learning environment that promotes active participation, accountability, and continuous improvement through peer-based learning.
